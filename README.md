@@ -18,7 +18,7 @@ I am a Computer Science student at **Texas Tech University (Class of 2030)** and
 
 > "I don't just write code that works; I write code that scales."
 
-*   **Reliability as a Standard:** My background managing complex household operations and running a self-employed business has instilled a **"zero-failure" mindset**. I approach software engineering with the same accountability I bring to real-world responsibilities.
+*   **Reliability as a Standard:** My background managing household operations and running a self-employed business has instilled a **"zero-failure" mindset**. I approach software engineering with the same accountability I bring to real-world responsibilities.
 *   **Performance-Driven Design:** I prioritize **memoization**, **server-side rendering**, and **caching (Redis)** to ensure the user experience is as fast as the backend is powerful.
 *   **Continuous Evolution:** As both a student and a professional, I thrive on the "learn-build-deploy" cycle. I am currently exploring the intersection of **Time-Series Forecasting** and **Distributed Systems**.
 
