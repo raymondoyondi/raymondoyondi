@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I am a **Computer Science Engineer** at **Texas Tech University (Class of 2030)** and the **Lead Consultant** at **Raymond Oyondi Consulting**. I specialize in bridging the gap between complex data science and scalable cloud architecture. My work focuses on building high-performance systems where every millisecond of latency and every percentage of model accuracy matters.
+I am a Computer Science student at **Texas Tech University (Class of 2030)** and a software engineer at **Raymond Oyondi Consulting**. I specialize in bridging the gap between complex data science and scalable cloud architecture. My work focuses on building high-performance systems where every millisecond of latency and every percentage of model accuracy matters.
 
 ---
 
