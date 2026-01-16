@@ -52,3 +52,5 @@ Libraries: ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=raymondoyondi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<iframe src="https://github.com/sponsors/raymondoyondi/card" title="Sponsor raymondoyondi" height="225" width="600" style="border: 0;"></iframe>
