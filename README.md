@@ -10,6 +10,7 @@ I am a Computer Science student at **Texas Tech University (Class of 2030)** and
 
 *   **🚀 Engineering Scalable Backends:** I specialize in high-concurrency systems using **Go** and **Node.js**, architecting microservices containerized via **Docker** and orchestrated with **Kubernetes**. My recent deployments have reduced overhead by **40%** through automated **CI/CD** pipelines.
 *   **📊 Predictive Analytics:** I build end-to-end Machine Learning pipelines. Whether forecasting NBA stats with **91% accuracy** or analyzing market sentiment via **TensorFlow**, I focus on turning raw data into actionable business intelligence.
+*   **📈 Real-Time Data Architecture:** I specialize in reactive, low-latency systems. Whether engineering real-time chat applications with **sub-100ms latency** for concurrent users or managing high-volume data persistence **(Postgres, Redis)**, I focus on 99.9% uptime and seamless data flow efficiency.
 *   **☁️ Cloud Infrastructure:** I leverage **AWS (DynamoDB, Lambda)** to ensure **99.9% application uptime**, implementing robust **OAuth2** security protocols to maintain **100% data privacy compliance**.
 
 ---
